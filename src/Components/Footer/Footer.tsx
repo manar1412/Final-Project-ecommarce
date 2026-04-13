@@ -64,20 +64,20 @@ const Footer = () => {
           <div>
             <p className="text-sm">Mobile</p>
             <a
-              href="tel:+201014215587"
+              href="tel:+20767887879"
               className="font-bold text-gray-800 dark:text-white hover:text-blue-600"
             >
-              +20 1096180013
+              +20 989099898090
             </a>
           </div>
 
           <div>
             <p className="text-sm">Email</p>
             <a
-              href="mailto:ahmadsoliman283@gmail.com"
+              href="mailto:manar@gmail.com"
               className="font-bold text-gray-800 dark:text-white hover:text-blue-600"
             >
-             manarayman867@gmail.com
+             manar@gmail.com
             </a>
           </div>
         </div>

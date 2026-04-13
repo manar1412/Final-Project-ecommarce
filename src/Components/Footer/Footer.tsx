@@ -67,7 +67,7 @@ const Footer = () => {
               href="tel:+201014215587"
               className="font-bold text-gray-800 dark:text-white hover:text-blue-600"
             >
-              +20 101 421 5587
+              +20 1096180013
             </a>
           </div>
 
@@ -77,7 +77,7 @@ const Footer = () => {
               href="mailto:ahmadsoliman283@gmail.com"
               className="font-bold text-gray-800 dark:text-white hover:text-blue-600"
             >
-              ahmadsoliman283@gmail.com
+             manarayman867@gmail.com
             </a>
           </div>
         </div>
